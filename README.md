@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @liberator79 aka Kalyan
+- 👀 I’m interested in Full Stack webdevelopment and DSA
+- 🌱 I’m currently learning TypeScript, NextJs
+- 📫 Reach me through gmail :- tiyyagurakalyan@gmail.com
+- 😄 Pronouns: he/him
